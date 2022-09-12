@@ -1,3 +1,6 @@
+<p><a href="./index.html">Home</a>
+<p>Last updated: 2022-09-06</p>
+
 Making Money
     Disclaimer: I am not a professional. The only way to stick with what I have found useful is to do the work yourself and internalize this. 
     Summary:
