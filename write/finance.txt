@@ -1,46 +1,43 @@
 <p><a href="./index.html">Home</a>
-<p>Last updated: 2022-09-06</p>
+<p>Last updated: 2022-09-14</p>
 
-Making Money
+
+Creating Wealth
     Disclaimer: I am not a professional. The only way to stick with what I have found useful is to do the work yourself and internalize this. 
-    Summary:
-        Money is freedom. Treat it as such
-        Underspend Income
-        Own Something
-        Do It Yourself
-    Money is Freedom, Not Consumption
+   Summary:
+    	Freedom
+	Wealth
+	Compound
+	Leverage
+	Own
+	DIY
+   Freedom
         “There’s only one success: to be able to live your life your way.” – Christopher Morley
-        If you are dependent on the next paycheck, then you can never live your way
-        Goal is to not worry about money
-        Consumption has no limit
-    Maximize Savings
-        Maximize income. Be useful. Dominate a niche. Create luck. Work for free, for your heros. https://sive.rs/gethired
-        Avoid the trap of overconsumption and envy
-        Understand the tradeoffs of "more"
-        Track the numbers
+	Be independent of money
+	The goal is not to consume- but to stop worrying about money
+   Create savings 
+   	Maximize income by being useful to others- especially your heros (sive.rs/gethired)
+        Understand the tradeoffs of consuming more 
+        Track your numbers, but do not obsess
     Compounding
-        look up "simple interest vs compounding interest". which do you want?
-        maximize: time, then contribution, then rate earned
-        play with the numbers yourself. figure out how to maximize values
-        you can compound if intentional
+       Understand simple vs compounding interest 
+       To compound: first maximize time, then contribution, and finally rate of return
+       Avoid: hitting '0', unecessary interruptions, things that do not compound
     Leverage
-        play games where output > input
-    Own Something
-        compound by reinvesting earnings to grow the business
-        business earnings are leveraged. +$1 in earnings leads to $5-$10 in increased valuation (businesses are valued on a multiple)
-        inflation hedge by raising prices
-        make money when you sleep (leverage)
-        potential for massive upside
-        tax-advantaged
-        Use tax-advantaged accounts (IRAs, 401Ks, matching plans)
-        Index/ETFs:
-            Funds that hold many companies according to a theme
-            Automatic
-            Low fees
-            Diverisifed
-            Tax efficient
-            Average invetment result
+       Create situations where output > input
+       You can leverage money, time, knowlede, and more
+       Always look for ways to apply leverage 
+    Ownership
+    	Name of the game: OWN LARGE EQUITY STAKES IN VALUABLE ASSETS
+	Find things that compound and have leverage (for example: businesses)
+    		reinvest earnings to grow (compound)
+		+$1 earnings leads to +$5-$10 in value (leverage)
+		businesses operate while you sleep (leverage)
+	indexing: diverisifed, automatic, inexpensive, average return, tax efficient
     Do It Yourself
-        Take out excel. Plug in some numbers to compound. Play with the numbers. You can achieve freedom.
-        The only way to stick with a strategy is to get conviction yourself. Keep questioning. Keep learning. Build convcition and go. 
-        Be rational, take your time, and do not follow crowd
+    	Internalize what works
+	Build conviction with common sense, excel, and a plan
+	Be rational, take your time, keep learning
+Leverage compounding assets to become free
+or
+savings > valuable assets > wealth > freedom
