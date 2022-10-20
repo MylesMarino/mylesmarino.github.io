@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="write.js"></script>
+    <title>Get It Done</title>
+    <h3><a href = "../index.html">Home</a></h3>
+</head>
+<body>
+   <h1>Not Reaching Your Goals?</h1>
+   <h1>We Will Tell Your Friends.</h1>
+
+	<h3>What is your name, goal, deadline, and punishment?</h3>
+	<input type="text" id="name" placeholder="Name"><br><br>
+	<input type="text" id="goal" placeholder="Goal"><br><br>
+	<input type="date" id="when"><br><br>
+
+	<select id = "punishment">
+		<option>singing "Sweet Caroline"</option>
+		<option>donating $100 to the Rainforest Alliance</option>
+		<option>shaving my left eyebrow off</option>
+		<option>eating a spoonfull of cinnamon</option>
+	</select><br><br>
+
+	 <input type="submit" value="Preview Email" onclick = "previewEmail(); return false;">
+
+	<h2>Email Preview</h2>
+	<p id = "previewIntro"></p>
+	<p id = "previewWhen"></p>
+	<p id = "previewPunishment"></p>
+	<p id = "previewCheers"></p>
+</body>
+</html>
