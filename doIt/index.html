@@ -4,18 +4,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="write.js"></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title>Get It Done</title>
     <h3><a href = "../index.html">Home</a></h3>
 </head>
 <body>
-   <h1>Not Reaching Your Goals?</h1>
-   <h1>We Will Tell Your Friends.</h1>
 
-	<h3>What is your name, goal, deadline, and punishment?</h3>
-	<input type="text" id="name" placeholder="Name"><br><br>
-	<input type="text" id="goal" placeholder="Goal"><br><br>
-	<input type="date" id="when"><br><br>
+	<div id="problem">
+	   <h1>Not Reaching Your Goals?</h1>
+	   <h1>We Will Tell Your Friends.</h1>
+	</div>
+
+	<div id="inputs">
+		<h3>What is your goal, deadline, and punishment?</h3>
+		<input type="text" id="goal" placeholder="Goal"><br><br>
+		<label>Days: </label><input type="number" id="when" value="15"><br><br>
+	</div>
 
 	<select id = "punishment">
 		<option>singing "Sweet Caroline"</option>
@@ -27,9 +32,25 @@
 	 <input type="submit" value="Preview Email" onclick = "previewEmail(); return false;">
 
 	<h2>Email Preview</h2>
-	<p id = "previewIntro"></p>
-	<p id = "previewWhen"></p>
-	<p id = "previewPunishment"></p>
-	<p id = "previewCheers"></p>
+		<p id = "previewIntro"></p>
+		<p id = "previewWhen"></p>
+		<p id = "previewPunishment"></p>
+		<p id = "previewCheers"></p>
+		<p id = "callToAction"></p>
+
+<!-- 	<div>
+		<h2>Templates</h2>
+		<select id = "templates">
+				<option>lose 10 pounds</option>
+				<option>go to the gym 20 times</option>
+				<option>launch my application</option>
+				<option>write my paper</option>
+				<option>write 10 blog posts</option>
+				<option>ask them out</option>
+				<optiuon>add custom</optiuon>
+		</select><br><br>
+	</div> -->
+
+
 </body>
 </html>
