@@ -11,4 +11,4 @@
 	const right = document.getElementById("right");
 
 // output
-	weekEven == true ? left.style.backgroundColor = "black" : right.style.backgroundColor = "black"
+	weekEven == true ? right.style.backgroundColor = "white" : life.style.backgroundColor = "white"
