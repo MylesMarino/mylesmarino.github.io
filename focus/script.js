@@ -2,9 +2,8 @@
 	let currentDate = new Date();
 	let startDate = new Date(currentDate.getFullYear(),0,1);
 
-	let millisecondDifference = Math.floor(startDate.getTime() - currentDate.getTime());
-	let totalDays = Math.ceil(millisecondDifference/(-1000*60*60*24));
-	let weekNum = Math.ceil((totalDays-1)/7);
+	let dayDifference = Math.floor(currentDate - startDate)/(1000*60*60*24);
+	let weekNum = Math.ceil((dayDifference)/7);
 	console.log(weekNum)
 
 // output
