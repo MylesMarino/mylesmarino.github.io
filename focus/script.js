@@ -2,7 +2,7 @@
 	const date = new Date();
 	const numDate = date.getDate();
 	var numDay = date.getDay();
-	date.setDate(numDate - numDay);
+	date.setDate(numDate - numDay + 1);
 	const weekNum = Math.floor(date.getDate() / 7);
 
 // select elements
