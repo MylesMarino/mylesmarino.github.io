@@ -1,19 +1,13 @@
 // getWeek
-const date = new Date();
-const dateNum = date.getDate();
-console.log(dateNum);
+	let startDate = new Date("01/01/2022");
+	let currentDate = new Date();
 
+	let millisecondDifference = startDate.getTime() - currentDate.getTime();
+	let totalDays = Math.ceil(millisecondDifference/(-1000*3600*24));
+	let weekNum = Math.floor(totalDays/7);
 
-// // getWeek
-// 	const date = new Date();
-// 	const numDate = date.getDate();
-// 	var numDay = date.getDay();
-// 	date.setDate(numDate - numDay + 1);
-// 	const weekNum = Math.floor(date.getDate() / 7);
+	console.log(startDate)
+	console.log(currentDate)
 
-// // select elements
-// 	const left = document.getElementById("left");
-// 	const right = document.getElementById("right");
-
-// // output
-// 	weekNum % 2 != 0 ? right.style.backgroundColor = "white" : left.style.backgroundColor = "white"
+// output
+	weekNum % 2 != 0 ? document.getElementById("whatWeek").innerHTML = "Code." : document.getElementById("whatWeek").innerHTML = "Invest."
