@@ -6,4 +6,5 @@
 	let weekNum = Math.ceil((dayDifference)/7);
 
 // output
-	weekNum % 2 != 0 ? document.getElementById("whatWeek").innerHTML = "Code." : document.getElementById("whatWeek").innerHTML = "Invest."
+	weekNum % 2 != 0 ? document.getElementById("whatWeek").innerHTML = "Build." : document.getElementById("whatWeek").innerHTML = "Invest."
+		weekNum % 2 != 0 ? document.getElementByTagName("title").innerHTML = "Focus. Build." : document.getElementByTagName("title").innerHTML = "Focus. Invest."
