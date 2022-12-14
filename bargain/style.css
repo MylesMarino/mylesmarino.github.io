@@ -1,0 +1,141 @@
+:root{
+    --primary-color: #0c6;
+    --secondary-color: #c06;
+
+    --font: Calibri;
+    --h1-font-size: 78px;
+    --h2-font-size: 39px;
+    --h3-font-size: 28px;
+    --paragraph-font-size: 20px;
+
+    --border-radius: 80px;
+}
+
+body{
+    font-family: var(--font);
+    margin: 0px 80px;
+
+    text-align: center;
+}
+
+/*Nav Bar*/
+
+    nav{
+        top: 0;
+        overflow: hidden;
+    }
+
+    nav ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    nav li{
+        float:left;
+        font-weight: bold;
+    }
+
+    nav li a{
+        display: block;
+        text-align: center;
+        padding: 14px 16px;
+
+        text-decoration: none;
+        color: black;
+        font-size: 24px;
+    }
+
+    nav li a:Hover{
+        color: var(--primary-color);
+    }
+
+/*Hero*/
+    .hero{
+        margin: -50px 70px auto;
+    }
+
+    h1{
+        font-size: var(--h1-font-size);
+        color: var(--primary-color);
+    }
+
+    h2{
+        font-size: var(--h2-font-size);
+        font-weight: 400;
+        margin-top: -50px;
+    }
+
+/*Button*/
+    button{
+        padding: .75em 1.5em;
+        border: 2px solid var(--secondary-color);
+        border-radius: 80px;
+        background-color: var(--secondary-color);
+
+        font-size: 1.8em;
+        line-height: 128%;
+        font-weight: bolder;
+        color: #fff;
+
+        background-origin: col;
+        cursor: pointer;
+    }
+
+/*Demo*/
+
+    .demo{
+        margin: 30px;
+        position: relative;
+        z-index: 1
+    }
+
+    .demo video{
+        border-radius: 8px;
+        display: block;
+        height: auto;
+        max-width: 100%;
+        overflow: hidden
+    }
+
+/*Social Proof*/
+
+    .socialProofImages{
+        display: flex;
+        justify-content: space-between;
+        float: left;
+        margin-bottom: 5%;
+    }
+
+    .socialProofImages img{
+        width: 30%;    
+    }
+
+/*More Features*/
+
+    h3{
+        font-size: var(--h3-font-size);
+        font-weight: 400;
+    }
+
+    .featureCards h1{
+        font-size: var(--h2-font-size);
+    }
+
+    .featureCards h2{
+        font-size: var(--paragraph-font-size);
+    }
+
+/*How We Work*/
+
+    .howWeWorkCards h1{
+        font-size: var(--h2-font-size);
+    }
+
+    .howWeWorkCards h2{
+        font-size: var(--paragraph-font-size);
+    }
+
+    th, td{
+        padding: 10px;
+    }
