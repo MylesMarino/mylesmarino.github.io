@@ -100,7 +100,8 @@ body{
 
 /*Pictures*/
     img{
-        width: 200px;
+        width: 100%;
+        max-width: 100px;
         height: 200px;
     }
 
