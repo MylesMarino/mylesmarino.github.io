@@ -1,0 +1,76 @@
+#meta
+	Homepage: the catch-all
+	Persona: specific audience page
+	Product: walk through product
+
+	writing: 70 characters per line max
+	desire: create intrigue
+	labor: decrease visitors labor
+	confusion: never
+	continuous narrative
+
+#navBar
+	top of page
+	logo on the left
+	navigation links on the right
+	buttons (signup/login) on the right, one looks clickable
+
+#hero
+	main section at the top of the page
+	header text: fully descriptive of what you are selling
+		understand immediately what you are doing
+		should be able to self-identify with the product
+		no corporate speak
+		specific benefit of the product
+		verbs
+		bad alternative --> better solution --> action statement
+		bold specific claim- with numbers. Answer objections
+
+		"Visually design and develop sites from scratch. No coding."
+		"Groceries delivered in 1 hour. Say goodbye to traffic, parking, and long lines."
+		"Rent people's homes. So you can experience a city like a true local."
+	subheader: how does the product work exactly
+		how the claim is possible
+		one or two sentences
+
+	capitvating imagery
+
+#socialProof
+	logos of press coverage
+	well known customers
+	use faces
+	everybody in the world knows about you
+
+#callToAction
+	signup button
+	concise incentive
+	verbs
+
+#features
+	key value propositions written out
+	complete sales pitch
+	header: short value prop
+	paragraph: describe the feature and optionally address objections
+	3-6 features
+
+#callToAction2
+	repeat the first one
+
+#footer
+	miscellaneous links
+
+Letter to your customers
+	Here is your problem
+	Here is why solving it is hard
+	Here is our solution. How does it work for the customer?
+	Here is what our solution is not
+	Here is who it worked for
+	Here is why it works
+	Here is how it works
+Wireframe
+Features
+
+Launching
+	Keep in mind who your audience is and what this does for them
+	promote (not paid ads) on product hunt, reddit, quora, hacker news, medium, imgur, growth hackers, facebook, youtube, twitter, linkedin, 9gag, trust pilot, g2, chrome store, yelp, google reviews
+	have an upcoming page to get emails, keep people updated, and launch
