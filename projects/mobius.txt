@@ -1,0 +1,81 @@
+Pitch Deck
+	Components thrown away
+		Gray market prices are too low
+		Search cost + time are too high
+
+	B2B Marketplace
+		Authenticated + escrow
+		Aynon manufacturers
+
+	Authentican
+		Use machine learning
+		Non destructive
+		Patent pending
+		Claim network effects
+
+	Finances
+		$400K annualized revenue
+		Growing 40% m/m
+
+	Value add
+		authentican
+		escrow
+		10x the broker rate
+		Takes 40% of the sale! But Still a 7x improvement
+
+	Customers
+		OEMs (Apple, GM) and Contract Manufacturers (Foxconn)
+
+	Traction
+		Sellers have $75K average listing
+		22 posted listings
+		Buyers have $3.4K per bid and 426 bids
+
+	New Stuff
+		added commission only sales person, 2% on Y1 revenue and adding more
+
+	Next
+		Elecontrics Distributors
+		Semiconductors
+		PE
+
+	Team
+		Margaret Upshur
+			technical founder & CEO
+			Grew team of 25 at startup from seed to series C
+		Good startup experience
+
+	Raising
+		$600K in Q1 to get to $2M rev
+		Get more commish only
+		Automate posting & bidding
+		Hire engineer lead and operating leader
+
+Questions
+	How did you start to solve the chicken and egg problem
+
+	Where did the authentication platform come from
+
+	How did you meet Yunfei, Gibs, Alli
+
+	Particle learnings
+
+	Default dead/alive
+
+	What is the stickyness
+
+	How did you get your first customers
+
+	Which customers have left
+
+	Why are you better than procurement departments
+
+	How is this an enduring advantage
+
+	How important is getting a patent
+
+	Why can this not be copied
+
+	Why cant you be one of many sources for buyers
+
+	
