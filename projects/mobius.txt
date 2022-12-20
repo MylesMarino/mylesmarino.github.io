@@ -45,6 +45,7 @@ Pitch Deck
 			Grew team of 25 at startup from seed to series C
 		Good startup experience
 
+
 	Raising
 		$600K in Q1 to get to $2M rev
 		Get more commish only
@@ -52,30 +53,34 @@ Pitch Deck
 		Hire engineer lead and operating leader
 
 Questions
-	How did you start to solve the chicken and egg problem
-
-	Where did the authentication platform come from
-
-	How did you meet Yunfei, Gibs, Alli
-
-	Particle learnings
-
-	Default dead/alive
-
-	What is the stickyness
-
-	How did you get your first customers
-
-	Which customers have left
-
-	Why are you better than procurement departments
-
-	How is this an enduring advantage
-
-	How important is getting a patent
-
-	Why can this not be copied
-
-	Why cant you be one of many sources for buyers
-
-	
+	History
+		What is the end goal here? What is the best scenario for you?
+		What needs to be in place, business wide, for this to be a success
+		What other ideas did you go through
+		How fast from idea to launch?
+		When was sometime you hacked to your advantage
+		What did you care about investors didn't? What did investors care about that you didn't?
+		Personal runway? how are you extending it?
+	Team
+		How did you meet Gibs? Alli? Yunfei?
+		Is the entire team FT?
+		Why Richmond?
+	Finances
+		Default dead/alive- give numbers. Contribution margin, current revenue and losses, money raised
+		How many more times do you need and want to raise
+	Customers
+		Chicken & Egg problem solution
+		How did you get your first customers
+		Where did the authentication platform come from
+		What is the customer pitch?
+		How often are you talking to users and how do you do this?	
+	Businesss
+		If you were stuck on an island for 3 years and you could only get 3 non-financial metrics- which are you taking?
+		What is the stickyness? Why can't they just go to the next better marketplace
+		How is this an enduring advantage
+		What pivots have you made?
+		How important is getting a patent for the authentication
+		How do they normally authenticate
+		Why now? Why has nobody solved this before?
+		Customer listing concentration
+		How does the take rate look
